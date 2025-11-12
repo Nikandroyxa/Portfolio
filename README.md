@@ -43,3 +43,13 @@ work demonstrates proficiency with essential libraries such as **Pandas**, **Num
   - ### [**📈Digital Marketing Performance Analysis**](https://github.com/Nikandroyxa/Portfolio/tree/main/009_Digital%20Marketing%20Campaign%20Performance)
 
     Analyzed 300+ multi-channel **Marketing Campaigns** using **SQL** to calculate **KPIs** like **ROMI**, **CPC**, **CPL**, **CAC** & **Conversion Rates**. Builted an interactive [**Tableau Dashboard**](https://public.tableau.com/views/MarketingCampaignPerformanceDashboard_17511978417850/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to visualize **Spend vs Revenue** trends & highlight **Top-Performing Campaigns by Category & Channel**
+
+
+
+
+
+  - ### [**🎮League of Legends Data Engineering & Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/010_League%20of%20Legends%20Data%20Engineering%20%26%20Analytics%20Pipeline)
+
+  Built an end-to-end **ML Pipeline integrating Riot Games API** for **Automated Data Collection** with rate **Limiting** & **Error Handling**. Performed comprehensive **Feature Engineering, EDA, Training 3 Classification models (LR, RF, GB) & Evaluation** in win prediction. Identified the **Strongest Predictors** (Heatmap) & derived actionable gameplay insights through **Correlation Analysis** & **Model Interpretation**
+
+  
