@@ -2,7 +2,7 @@
 
 ## 📊 **Project Overview**
 
-This project aimed to develop a comprehensive **data pipeline and Machine Learning solution** to predict win/loss outcomes in League of Legends matches using personal gameplay data. The primary goal was to gain hands-on experience with **Data Engineering (API integration, data collection)** and **Data Science (exploratory analysis, feature engineering, predictive modeling)**.
+This project aimed to develop a comprehensive **Data Pipeline and Machine Learning solution** to predict win/loss outcomes in League of Legends matches using personal gameplay data. The primary goal was to gain hands-on experience with **Data Engineering (API integration, data collection)** and **Data Science (exploratory analysis, feature engineering, predictive modeling)**.
 
 Using the **Riot Games API**, we collected 460 Katarina matches from 1,000 total games in the CLASSIC queue (EUW server). The project demonstrates end-to-end ML workflow: from API data extraction and cleaning, through exploratory data analysis (EDA), to building and evaluating multiple classification models. The best model achieved **94.57% accuracy** with an **AUC of 0.986**, successfully identifying the key factors that determine victory.
 
