@@ -50,7 +50,7 @@ work demonstrates proficiency with essential libraries such as **Pandas**, **Num
 
   - ### [**🎮League of Legends Data Engineering & Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/010_League%20of%20Legends%20Data%20Engineering%20%26%20Analytics%20Pipeline)
 
-    Built an end-to-end **ML Pipeline integrating Riot Games API** for **Automated Data Collection** with rate **Limiting** & **Error Handling**. Performed comprehensive **Feature Engineering, EDA, Training 3 Classification models (LR, RF, GB) & Evaluation** in win prediction. Identified the **Strongest Predictors** (Heatmap) & derived actionable gameplay insights through **Correlation Analysis** & **Model Interpretation**
+    Built an **End-to-End ML Pipeline integrating Riot Games API** for **Automated Data Collection** with rate **Limiting** & **Error Handling**. Performed comprehensive **Feature Engineering, EDA, Training 3 Classification models (LR, RF, GB) & Evaluation** in win prediction. Identified the **Strongest Predictors** (Heatmap) & derived actionable gameplay insights through **Correlation Analysis** & **Model Interpretation**
 
 ---
 
