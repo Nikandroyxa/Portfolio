@@ -10,6 +10,18 @@ Using the **Riot Games API**, we collected 460 Katarina matches from 1,000 total
 
 ## 🎯 **Key Objectives**
 
+### 📁 **Project Structure**
+```
+📁 API - LoL Data Engineering & Analytics Pipeline/
+│
+├── 📓 01_Riot_API_Data_Collection.ipynb
+├── 📓 02_EDA_Kata_Classic_1000.ipynb
+├── 📓 03_ML_Win_Prediction.ipynb
+│
+└── 📊 katarina_matches_1000.csv
+```
+---
+
 1. **Data Engineering Practice:**
    - Authenticate and interact with Riot Games API
    - Build a robust data collection pipeline with rate limiting and error handling
@@ -66,6 +78,7 @@ Using the **Riot Games API**, we collected 460 Katarina matches from 1,000 total
 | **Test Set Size** | 92 games |
 | **Correct Predictions** | 87 / 92 |
 | **Top Predictor** | Team Towers (r=0.705) |
+
 ---
 
 ## 🔄 **Process**
@@ -128,17 +141,6 @@ Using the **Riot Games API**, we collected 460 Katarina matches from 1,000 total
 
 ---
 
-## 📁 **Project Structure**
-```
-📁 API - LoL Data Engineering & Analytics Pipeline/
-│
-├── 📓 01_Riot_API_Data_Collection.ipynb  # Data collection pipeline
-├── 📓 02_EDA_Kata_Classic_1000.ipynb     # Exploratory data analysis
-├── 📓 03_ML_Win_Prediction.ipynb         # Machine learning models
-│
-└── 📊 katarina_matches_1000.csv          # Collected match data
-```
----
 ## 💻 **Technologies Used**
 
 ### **Data Engineering & API:**
