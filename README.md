@@ -9,6 +9,10 @@ work demonstrates proficiency with essential libraries such as **Pandas**, **Num
 
 ## Featured Projects & Applications:
 
+  - ### [**🎮League of Legends: End-to-End API to ML Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/010_League%20of%20Legends%20Data%20Engineering%20%26%20Analytics%20Pipeline)
+
+    Built an **End-to-End ML Pipeline integrating Riot Games API** for **Automated Data Collection** with **Rate Limiting** & **Error Handling**. Performed comprehensive **Feature Engineering, EDA, Trained 3 Classification models (LR, RF, GB)** & **Evaluated** for winning prediction. Identified the **Strongest Predictors** (Heatmap) & derived actionable gameplay insights through **Correlation Analysis** & **Model Interpretation**
+  
   - ### [**🫀Heart Attack Prediction**](https://github.com/Nikandroyxa/Portfolio/tree/main/002_Dissertation%20-%20Heart%20Attack%20Prediction) & [**🦠Monkeypox**](https://github.com/Nikandroyxa/Portfolio/tree/main/005_Monkeypox%20(MPOX))
     
      Developed more than **15 Predictive Models** for healthcare applications combined with a variety of **Imbalance Data Techniques**, **Feature Selection Methods** & **Model Optimization** via **Grid Search** & **Randomized Cross-Validation**
@@ -44,13 +48,6 @@ work demonstrates proficiency with essential libraries such as **Pandas**, **Num
 
     Analyzed 300+ multi-channel **Marketing Campaigns** using **SQL** to calculate **KPIs** like **ROMI**, **CPC**, **CPL**, **CAC** & **Conversion Rates**. Builted an interactive [**Tableau Dashboard**](https://public.tableau.com/views/MarketingCampaignPerformanceDashboard_17511978417850/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to visualize **Spend vs Revenue** trends & highlight **Top-Performing Campaigns by Category & Channel**
 
-
-
-
-
-  - ### [**🎮League of Legends Data Engineering & Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/010_League%20of%20Legends%20Data%20Engineering%20%26%20Analytics%20Pipeline)
-
-    Built an **End-to-End ML Pipeline integrating Riot Games API** for **Automated Data Collection** with **Rate Limiting** & **Error Handling**. Performed comprehensive **Feature Engineering, EDA, Trained 3 Classification models (LR, RF, GB)** & **Evaluated** for winning prediction. Identified the **Strongest Predictors** (Heatmap) & derived actionable gameplay insights through **Correlation Analysis** & **Model Interpretation**
 
 ---
 
