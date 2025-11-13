@@ -5,7 +5,7 @@
 Welcome to my portfolio !!! 
 
 This repository showcases my Data Science & Engineer projects utilizing **Python**, **SQL** & comprehensive **Data Workflows** including **Data Preparation**, **Data Cleansing**, **Data Warehousing**, **API's**, **Pipelines**, **Data Visualization**, **EDA** & **ETL** processes. My
-work demonstrates proficiency with essential libraries such as **Pandas**, **Numpy**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **Pycaret**, **Catboost**, **XGBoost**, **Scipy** & **NLTK**
+work demonstrates proficiency with essential libraries such as **Pandas**, **Numpy**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **Pycaret**, **Catboost**, **XGBoost**, **Scipy**, **NLTK**, **Requests** & **Python-dotenv**
 
 ## Featured Projects & Applications:
 
