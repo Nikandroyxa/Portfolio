@@ -1,4 +1,4 @@
-# **LoL Data Engineering (API) & Analytics Pipeline**
+# **League of Legends: End-to-End API to ML Analytics Pipeline**
 
 ## 📊 **Project Overview**
 
