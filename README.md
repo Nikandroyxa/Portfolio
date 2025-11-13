@@ -21,15 +21,6 @@ work demonstrates proficiency with essential libraries such as **Pandas**, **Num
 
     Developed high-performing **Text Classification** models using **TF-IDF**, **Logistic Regression** & **XGBoost**, combined with **Domain-level Metadata**, **Feature Engineering**, **Model Optimization** & **Model Evaluation**
      
-
-  - ### [**🧺Market Basket Analysis**](https://github.com/Nikandroyxa/Portfolio/tree/main/004_Market%20Analysis%20-%20Customer%20Segmentation%20-%20RFM)
-
-    Implemented **RFM Segmentation** & **Customer Clustering** using advanced techniques like **DBSCAN Clustering** & **Grid Search Cross-Validation** to generate actionable insights for **Targeted Marketing** & **Customer Retention**
-
-  - ### [**📱Social Media Analysis**](https://github.com/Nikandroyxa/Portfolio/tree/main/006_Social%20Media%20Analysis)
-
-    Leveraged **APIs** & **Text Mining** techniques, including **LDA (Latent Dirichlet Allocation)**, to perform **Topic Modeling** & **VADER Sentiment Analysis** to extract & provide insights into **User Sentiment**, **Performance Perception** & **Pricing Concerns**
-
   - ### [**🔐Data Privacy** & **Anonymization**](https://github.com/Nikandroyxa/Portfolio/tree/main/007_Data%20Privacy)
 
     - [**🫀Heart Disease Anonymization**](https://github.com/Nikandroyxa/Portfolio/tree/main/007_Data%20Privacy/Heart%20Disease%20Anonymization)
@@ -39,7 +30,15 @@ work demonstrates proficiency with essential libraries such as **Pandas**, **Num
     - [**📍US ZIP Code Population & Privacy Analysis**](https://github.com/Nikandroyxa/Portfolio/tree/main/007_Data%20Privacy/US%20ZIP%20Code%20Population%20%26%20Privacy%20Analysis)
 
       Analyzed ZIP5 & ZIP3-level population data to evaluate **Privacy Risks** using **Data Generalization**, **Density Analysis** & **ZIP code overlap detection** to simulate real-world challenges in privacy-preserving geographic data analysis
-    
+      
+  - ### [**🧺Market Basket Analysis**](https://github.com/Nikandroyxa/Portfolio/tree/main/004_Market%20Analysis%20-%20Customer%20Segmentation%20-%20RFM)
+
+    Implemented **RFM Segmentation** & **Customer Clustering** using advanced techniques like **DBSCAN Clustering** & **Grid Search Cross-Validation** to generate actionable insights for **Targeted Marketing** & **Customer Retention**
+
+  - ### [**📱Social Media Analysis**](https://github.com/Nikandroyxa/Portfolio/tree/main/006_Social%20Media%20Analysis)
+
+    Leveraged **APIs** & **Text Mining** techniques, including **LDA (Latent Dirichlet Allocation)**, to perform **Topic Modeling** & **VADER Sentiment Analysis** to extract & provide insights into **User Sentiment**, **Performance Perception** & **Pricing Concerns**
+   
   - ### [**🦠COVID-19 Monitoring Data Mart (ECDC)**](https://github.com/Nikandroyxa/Portfolio/tree/main/008_COVID-19%20Monitoring%20Data%20Mart%20(ECDC))
 
     Designed & implemented a **Dimensional Data Warehouse** integrating multiple healthcare processes into a **Star** schema with **OLAP queries**, **Materialized Views** & **SQL-based** analytics to support ECDC-level **Reporting** & **Decision-Making**
