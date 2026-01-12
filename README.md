@@ -9,10 +9,14 @@ work demonstrates proficiency with essential libraries such as **Pandas**, **Num
 
 ## Featured Projects & Applications:
 
+  - ### [**🎮X (Twitter) - Gaming: End-to-End GenAI and LLM Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/011_X%20(Twitter)%20-%20Gaming%3A%20End-to-End%20GenAI%20and%20LLM%20Analytics%20Pipeline)
+
+    Built an **End-to-End Data Pipeline integrating X API for Automated Tweet Collection & Anthropic's Claude Sonnet 4.5 LLM for AI-Powered Sentiment Analysis**. Implemented **Prompt Engineering** for **Structured Outputs**, **Multi-Dimensional Entity Extraction** (38 games, 53 companies, 35 platforms) & **Modular Architecture (Src/ modules)**. Performed comprehensive **EDA**, identified **Trending Topics** (Blockchain Gaming, Web3), discovered **Engagement Paradox** (Negative sentiment = 5% higher engagement) & created Professional **Multi-Chart Dashboards** for actionable Gaming Community Insights
+  
   - ### [**🎮League of Legends: End-to-End API to ML Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/010_LoL%3A%20End-to-End%20API%20to%20ML%20Analytics%20Pipeline)
 
     Built an **End-to-End ML Pipeline integrating Riot Games API** for **Automated Data Collection** with **Rate Limiting** & **Error Handling**. Performed comprehensive **Feature Engineering, EDA, Trained 3 Classification models (LR, RF, GB)** & **Evaluated** for winning prediction. Identified the **Strongest Predictors** (Heatmap) & derived actionable gameplay insights through **Correlation Analysis** & **Model Interpretation**
-  
+    
   - ### [**🫀Heart Attack Prediction**](https://github.com/Nikandroyxa/Portfolio/tree/main/002_Dissertation%20-%20Heart%20Attack%20Prediction) & [**🦠Monkeypox**](https://github.com/Nikandroyxa/Portfolio/tree/main/005_Monkeypox%20(MPOX))
     
      Developed more than **15 Predictive Models** for healthcare applications combined with a variety of **Imbalance Data Techniques**, **Feature Selection Methods** & **Model Optimization** via **Grid Search** & **Randomized Cross-Validation**
