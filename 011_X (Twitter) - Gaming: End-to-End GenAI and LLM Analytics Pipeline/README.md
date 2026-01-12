@@ -1,4 +1,4 @@
-# X (Twitter)- Gaming🎮: End-to-End GenAI and LLM Analytics Pipeline
+# X (Twitter)- Gaming: End-to-End GenAI and LLM Analytics Pipeline
 
 ## 📊 Project Overview
 
