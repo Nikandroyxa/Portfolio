@@ -4,14 +4,14 @@
 
 Welcome to my portfolio !!! 
 
-This repository showcases my Data Science & Engineer projects utilizing **Python**, **SQL** & comprehensive **Data Workflows** including **Data Preparation**, **Data Cleansing**, **Data Warehousing**, **API's**, **Pipelines**, **Data Visualization**, **EDA** & **ETL** processes. My
+This repository showcases my Data Science & Engineer projects utilizing **Python**, **SQL** & comprehensive **Data Workflows** including **Data Preparation**, **Data Cleansing**, **Data Warehousing**, **API's**, **LLM**, **Pipelines**, **Data Visualization**, **EDA** & **ETL** processes. My
 work demonstrates proficiency with essential libraries such as **Pandas**, **Numpy**, **Seaborn**, **Matplotlib**, **Scikit-learn**, **Pycaret**, **Catboost**, **XGBoost**, **Scipy**, **NLTK**, **Requests** & **Python-dotenv**
 
 ## Featured Projects & Applications:
 
   - ### [**🎮X (Twitter) - Gaming: End-to-End GenAI and LLM Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/011_X%20(Twitter)%20-%20Gaming%3A%20End-to-End%20GenAI%20and%20LLM%20Analytics%20Pipeline)
 
-    Built an **End-to-End Data Pipeline integrating X API for Automated Tweet Collection & Anthropic's Claude Sonnet 4.5 LLM for AI-Powered Sentiment Analysis**. Implemented **Prompt Engineering** for **Structured Outputs**, **Multi-Dimensional Entity Extraction** (38 games, 53 companies, 35 platforms) & **Modular Architecture (Src/ modules)**. Performed comprehensive **EDA**, identified **Trending Topics** (Blockchain Gaming, Web3), discovered **Engagement Paradox** (Negative sentiment = 5% higher engagement) & created Professional **Multi-Chart Dashboards** for actionable Gaming Community Insights
+    Built an **End-to-End Data Pipeline integrating X API for Automated Tweet Collection & Anthropic's Claude Sonnet 4.5 LLM for AI-Powered Sentiment Analysis**. Implemented **Prompt Engineering** for **Structured Outputs**, **Multi-Dimensional Entity Extraction** & **Modular Architecture (Src/ modules)**. Performed comprehensive **EDA**, identified **Trending Topics**, discovered **Engagement Paradox** & created **Multi-Chart Dashboards** for actionable Gaming Community Insights
   
   - ### [**🎮League of Legends: End-to-End API to ML Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/010_LoL%3A%20End-to-End%20API%20to%20ML%20Analytics%20Pipeline)
 
