@@ -4,6 +4,8 @@
 I developed a strong foundation in **Data Science** & **Engineering** through an **MSc in Data Science & Analytics** where I achieved **Distinction** (Top 10% of my class) from the **University of Westminster** and further enhanced my expertise with a **Data Analysis** certification from IBM. 
 Eager to apply my skills and tackle bigger challenges in the dynamic and prestigious environment.
 
+• Currently actively developing self-initiated projects using **GenAI**, **LLMs** & **APIs** to enhance technical capabilities
+
 • Graduated **6th out of 120** students in a **MSc in data Science & Analytics** from the **University of Westminster** in London
 
 • Developed strong knowledge in programming languages & data tools such as **Python**, **SQL**, **R**, **Excel**, **Tableau** & **Power Bi** 
