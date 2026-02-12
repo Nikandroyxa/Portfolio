@@ -9,11 +9,11 @@ work demonstrates proficiency with essential libraries such as **Pandas**, **Num
 
 ## Featured Projects & Applications:
 
-  - ### [**🎮X (Twitter) - Gaming: End-to-End GenAI and LLM Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/011_X%20(Twitter)%20-%20Gaming%3A%20End-to-End%20GenAI%20and%20LLM%20Analytics%20Pipeline)
+  - ### [**🎮X (Twitter) - Gaming: End-to-End GenAI and LLM Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/011_X%20(Twitter)%20-%20Gaming_End-to-End%20GenAI%20and%20LLM%20Analytics%20Pipeline)
 
     Built an **End-to-End Data Pipeline integrating X API for Automated Tweet Collection & Anthropic's Claude Sonnet 4.5 LLM for AI-Powered Sentiment Analysis**. Implemented **Prompt Engineering** for **Structured Outputs**, **Multi-Dimensional Entity Extraction** & **Modular Architecture (Src/ modules)**. Performed comprehensive **EDA**, identified **Trending Topics**, discovered **Engagement Paradox** & created **Multi-Chart Dashboards** for actionable Gaming Community Insights
   
-  - ### [**🎮League of Legends: End-to-End API to ML Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/010_LoL%3A%20End-to-End%20API%20to%20ML%20Analytics%20Pipeline)
+  - ### [**🎮League of Legends: End-to-End API to ML Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/010_LoL_%20End-to-End%20API%20to%20ML%20Analytics%20Pipeline)
 
     Built an **End-to-End ML Pipeline integrating Riot Games API** for **Automated Data Collection** with **Rate Limiting** & **Error Handling**. Performed comprehensive **Feature Engineering, EDA, Trained 3 Classification models (LR, RF, GB)** & **Evaluated** for winning prediction. Identified the **Strongest Predictors** (Heatmap) & derived actionable gameplay insights through **Correlation Analysis** & **Model Interpretation**
     
