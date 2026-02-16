@@ -4,9 +4,9 @@
 
 This project demonstrates a **Full Stack Cloud Data Pipeline** that collects MotoGP 2024 racing data through **Web Scraping**, stores & processes it using **Google Cloud Platform (GCP)** infrastructure, queries it with **BigQuery SQL**, generates professional **Data Visualizations** & maintains **Version Control** through **Git/GitHub**
 
-The pipeline processes **23 races** from the 2024 MotoGP season through a 4-stage workflow: **Web Scraping**, **Cloud Storage**, **Cloud Database (BigQuery)**, & **Data Visualization**. The project showcases **Cloud Data Engineering** practices, **SQL Analytics**, full-stack development from data collection to insight generation & **software engineering practices with Git Version Control**
+The pipeline processes races from the 2024 MotoGP season through a 4-stage workflow: **Web Scraping**, **Cloud Storage**, **Cloud Database (BigQuery)**, & **Data Visualization**. The project showcases **Cloud Data Engineering** practices, **SQL Analytics**, full-stack development from data collection to insight generation & **software engineering practices with Git Version Control**
 
-Using **GCP Cloud Storage & BigQuery**, the pipeline stored & queried race results, achieving comprehensive analysis of **11 race wins by Francesco Bagnaia (47.8%)**, while extracting insights from **7 performance metrics** including pole positions, fastest laps & circuit performance across the **23-race championship season**
+Using **GCP Cloud Storage & BigQuery**, the pipeline stored & queried race results, achieving comprehensive analysis of **11 race wins by Francesco Bagnaia (47.8%)**, while extracting insights from **7 performance metrics** including pole positions, fastest laps & circuit performance across the championship season
 
 ---
 
