@@ -11,7 +11,7 @@ work demonstrates proficiency with essential libraries such as **Pandas**, **Num
 
   - ### [**🏍️MotoGP Racing: Full Stack Cloud Pipeline with GCP & BigQuery Analytics**](https://github.com/Nikandroyxa/Portfolio/tree/main/012_MotoGP-Racing_Full%20Stack%20Cloud%20Pipeline%20with%20GCP%20BigQuery%20Analytics)
 
-    Built a **Full Stack Cloud Data Pipeline** integrating **Web Scraping** for **Automated Data Collection**, **Google Cloud Platform (GCP) for Cloud Storage** & **BigQuery for SQL Analytics**. Implemented both **Procedural & Function-based Programming**, performed **EDA**, created **5 Professional Visualizations** & maintained **Version Control with Git/GitHub**. Analyzed ** MotoGP races** with **7 performance metrics**, identifying **Francesco Bagnaia's championship dominance (11 wins, 47.8% win rate)** through **Cloud-based SQL Queries** & **Data Visualization**
+    Built a **Full Stack Cloud Data Pipeline** integrating **Web Scraping** for **Automated Data Collection**, **Google Cloud Platform (GCP) for Cloud Storage** & **BigQuery for SQL Analytics**. Implemented both **Procedural & Function-based Programming**, performed **EDA**, created **5 Professional Visualizations** & maintained **Version Control with Git/GitHub**. Analyzed **MotoGP races** with **7 performance metrics**, identifying **Francesco Bagnaia's championship dominance (11 wins, 47.8% win rate)** through **Cloud-based SQL Queries** & **Data Visualization**
 
   - ### [**🎮X (Twitter) - Gaming: End-to-End GenAI and LLM Analytics Pipeline**](https://github.com/Nikandroyxa/Portfolio/tree/main/011_X%20(Twitter)%20-%20Gaming_End-to-End%20GenAI%20and%20LLM%20Analytics%20Pipeline)
 
